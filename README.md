@@ -1,0 +1,1 @@
+This app creats a countdown timer that can be use for various future event. It does this by calculating and displays the time remaining untill a specified future date and time , updating it every seconds, form days to milliseconds runs down to Zero(0), it will display whatever reason for this in a message given
